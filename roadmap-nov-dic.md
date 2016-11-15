@@ -7,7 +7,7 @@ Proyectos
 -----
 
  - Creación de una aplicación de conversión de unidades  de medida en Python.
- - Construcción de una consola de sobremesa retro con una Raspberry Pi 3, con numerosos emulaores, una carcasa de diseño propio y sistemas de refregeración
+ - Construcción de una consola de sobremesa retro con una Raspberry Pi 3, con numerosos emuladores, una carcasa de diseño propio y sistemas de refregeración
 
 Retos
 -----
