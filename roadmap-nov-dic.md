@@ -45,9 +45,9 @@ S6: Desarrollo de app II
 
 S7: Finalización de desarrollo de app III
 
-S8: Paso a la web I *(por decidir)*
+*S8: Paso a la web I (por decidir)*
 
-S9: Paso a la web II *(por decidir)*
+*S9: Paso a la web II (por decidir)*
 
 S8 bis: Raspberry Pi, comienzo con Linux I
 
@@ -55,4 +55,4 @@ S9 bis: Raspberry Pi, instalación de SO Retropie (Linux II)
 
 S10: Diseño de producto I y II
 
-S12: Efectividad, inst. comp. refrig. Hardware work
+S11: Efectividad, inst. comp. refrig. Hardware work
